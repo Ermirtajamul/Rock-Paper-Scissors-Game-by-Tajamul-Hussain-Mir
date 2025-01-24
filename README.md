@@ -36,7 +36,7 @@ This is a simple **Rock Paper Scissors** game created by **[Your Name]**. It’s
 
 ## Preview
 
-![Game Preview](./RPS(preview).jpg)  
+![Game Preview](./RPS(Preview).jpg)  
 
 ---
 

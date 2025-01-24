@@ -2,13 +2,20 @@
 This a Mini Project (Rock Paper Scissors Game) Using HTML, CSS And Java Script 
 
 rock-paper-scissors/
-**├── index.html       # Main HTML structure
-**├── style.css        # Game styles
-**├── app.js           # Game logic
-**├── images/          # Game assets
-**│   ├── rock.png
-**│   ├── paper.png
-**│   ├── scissors.png
+
+├── index.html       # Main HTML structure
+
+├── style.css        # Game styles
+
+├── app.js           # Game logic
+
+├── images/          # Game assets
+
+│   ├── rock.png
+
+│   ├── paper.png
+
+│   ├── scissors.png
 
 
 # Rock Paper Scissors Game
